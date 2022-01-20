@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to top left, #1C2E4C, #6CD0FF);
+    height: 100vh;
+}
+
+#login #login-box {
+    margin-top: 200px;
+    max-width: 600px;
+    height: 320px;
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+
+#login-form {
+    padding: 20px;
+}
+
+.btn {
+    background: #000;
+    color: #FFF;
+}
+.logcap {
+  font-family: Lato;
+  padding-top: 20px;
+}
+p {
+  padding-top: 20px;
+  font-family: Lato;
+}

@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to top left, #1C2E4C, #6CD0FF);
+    height: 100vh;
+}
+
+p {
+  font-family: Lato;
+}
+
+#login #login-box {
+    margin-top: 240px;
+    max-width: 700px;
+    height: 240px;
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+
+#login-form {
+    padding: 20px;
+}
+
+.choices {
+  padding-top: 20px;
+  display: inline-block;
+}
+
+.btn {
+  margin-left:94px;
+    color: #FFF;
+    font-size: 26px;
+}
+.logcap {
+  font-family: Lato;
+  padding-top: 20px;
+}
